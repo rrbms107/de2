@@ -1,0 +1,8 @@
+Flask==2.0.2
+Flask-Cors==3.0.10
+pymongo==4.0.1
+certifi==2021.5.30
+nltk==3.6.5
+tensorflow==2.8.0
+transformers==4.13.0
+spacy==3.2.1
